@@ -5,7 +5,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; Datordelen.se 2015</p>
+                    <p>Copyright &copy; Datordelen.se 2021</p>
                 </div>
             </div>
             <!-- /.row -->
